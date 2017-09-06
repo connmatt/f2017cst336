@@ -1,0 +1,76 @@
+h1{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 4em;
+    margin-bottom: 0px;
+}
+body{
+    background-color: black;
+    color:gray;
+}
+
+header, main, nav {
+    text-align: center;
+}
+
+nav a{
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration: none;
+    color:white;
+}
+
+nav a:hover{
+    border-bottom:2px red solid;
+    font-size: 2em;
+    transition: .9s;
+    
+}
+body.home a.home, body.about a.about, body.contact a.contact{
+    color: red;
+}
+
+#me{
+    float:left;
+}
+
+#welcomeText{
+    font-size:1.6em;
+    float:inherit;
+    
+}
+table {
+    margin: 0px auto;
+}
+
+td{
+    padding-right: 10px;
+    font-size:1.3em;
+}
+
+td strong{
+    color: orange;
+}
+
+#table-header{
+    background-color: #040778;
+}
+.table-row{
+    background-color: #042C63;
+    color: #E8D7BE;
+}
+
+ul{
+    text-align: left;
+    padding-left: 200px;
+}
+
+.hobby{
+    color:yellow;
+}
+footer {
+    text-align: center;
+    clear: left;
+    font-size:1em;
+    color:gray;
+}

@@ -1,0 +1,142 @@
+h1{
+    font-family: 'VT323', monospace;
+    font-size: 4em;
+    margin-bottom: 0px;
+}
+body{
+    background-color: #040059;
+    color:gray;
+}
+
+header, main, nav {
+    text-align: center;
+}
+
+nav a{
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration: none;
+    color:white;
+}
+
+nav a:hover{
+    border-bottom:2px green solid;
+    font-size: 2em;
+    transition: .9s;
+    
+}
+body.home a.home, body.unity a.unity, body.csharp a.csharp, body.sprites a.sprites{
+    color: green;
+}
+
+#gamedev{
+    float:center;
+}
+
+#overviewText{
+    font-size:1.5em;
+    float:center;
+    
+}
+
+#cshp{
+    text-align: center;
+    width: 400;
+    height: 400;
+}
+table {
+    margin: 0px auto;
+}
+
+td{
+    padding-right: 10px;
+    font-size:1.3em;
+}
+
+td strong{
+    color: orange;
+}
+
+#code{
+    border-style: dotted;
+    border-color: red;
+    color: yellow;
+    font-size: 1.8em;
+    background-color: black;
+    width: 1000px;
+    height: 600px;
+}
+
+hr{
+    width: 50%;
+}
+
+#references{
+    font-size:1.5em;
+}
+
+#links{
+    font-size:1.5em;
+}
+
+#sent{
+    font-size:2em;
+}
+
+#sprit{
+    font-size: 2em;
+    text-align: center;
+}
+
+#spritesheet{
+    text-align:center;
+}
+
+#vid{
+    text-align: center;
+}
+
+#info{
+    font-size:2em;
+    text-align: center;
+    
+}
+
+#unitylogo{
+    text-align: top;
+}
+
+#table-header{
+    background-color: #040778;
+}
+.table-row{
+    background-color: #042C63;
+    color: #E8D7BE;
+}
+
+
+
+.hobby{
+    color:yellow;
+}
+
+#content{
+    font-size: 2em;
+}
+#text{
+    font-size:1.5em;
+}
+
+#list{
+    display: inline-block;
+    text-align: center;
+    font-size:1.5em;
+}
+
+footer {
+    text-align: center;
+    clear: left;
+    font-size:1em;
+    color:gray;
+}
