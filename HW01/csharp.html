@@ -19,15 +19,15 @@ in html
             body{
                 background-color: #040059 !important;
             } 
-        </style> 
-        <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        </style>
+          <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">    
     </head>
 <!-- closing head -->
 
     <!-- This is the body -->
     <!-- This is where we place the content of our website -->
-    <body class="csharp" style="background-color:blue; color:white">
+    <body class="csharp" style="background-color:black; color:white">
         <header>
             <h1> Game Development </h1>
         </header>
@@ -39,34 +39,32 @@ in html
             <a href="sprites.html" class="sprites">Sprites</a>
         </nav>
             <br /><br />
-            
-            <main>
-                <figure id="gamedev">
-                    <img src="img/gamedevCycle.png" alt="Picture of Game Development Cycle" />
-                </figure>
+            <figure id="cshp">
+                <img src="img/c.png" alt="Picture of C# logo" />
+            </figure>
+            <div id ="info">
+                <p>C# is a programming language that was created by Microsoft to on on the .NET Framework.</p>
+                <p>It is a general-purpose, object-oriented programming language.</p>
+                <p>The design goals of c# is to be suitable for writing applications for hosted and embedded systems.</p>
+                <p>It is also known to be economical when it comes to memory and processing power.</p><br/><br/>
                 
-                <div id="overviewText">
-                    <br />
-                    <br />
-                    <p><b>Video game development is the process of creating video games.</b></p>
-                    <br />
-                    <p><b>The process of Game Development goes from an idea or concept -> artwork and design ->development -> deployment -> publish.</b></p>
-                    <p><b>Game development can go from AAA titles for PC and Consoles to indie games that some people can make on their own.</b></p>
-                    <p><b>Its a lot easier today for anyone to develop their own game while all the tools are out there on the internet. </b></p>
-                    <p><b>There are free Engines out there that helps with creating your own game.</b></p>
-                    <p><b>Unity is one of the free engines that people can downlaod and use.</b></p>
-                    <p><b>Unity can do either 2D or 3D game development and can easily implement sprites and objects using C# language.</b></p>
-                    <p></p>
-                </div>
-            </main>
-            
-            <p id="references">References:</p>
-            <div id="links">
-            <a href="https://en.wikipedia.org/wiki/Sprite_(computer_graphics)" > Sprite_Computer_Graphics</a> <br/>
-            <a href="https://madewith.unity.com/games"> Unity Games </a><br/>
-            <a href="https://en.wikipedia.org/wiki/Video_game_development"> video_game_development</a><br/>
-            <a href="https://docs.unity3d.com/Manual/Sprites.html"> Unity Sprite Manual</a><br/>
-            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> C#</a><br/>
+            </div>
+            <p id="sent"><b>Here is a sample of my c# code from a game I was working on: </b></p>
+            <div id="code">
+                
+                <pre>
+                <code>private void HandleInput()</code>
+                <code>{</code>
+                <code>      if(Input.GetKeyDown (KeyCode.LeftShift))</code>
+                <code>      {</code>
+                <code>          attack = true;</code>
+                <code>      }</code>
+                <code>      if(Input.GetKeyDown (KeyCode.Space))</code>
+                <code>      {</code>
+                <code>          jump=true;</code>
+                <code>      }</code>
+                <code> }</code>
+                </pre>
             </div>
         <footer>
             <img src="img/CSUMBLogo.png" alt="Picture of CSUMB Logo" />
