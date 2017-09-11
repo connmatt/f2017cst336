@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Righteous', cursive;
+}
+
+table {
+    margin: 0px auto;
+}
+
+td{
+    padding-right: 10px;
+    font-size:1.3em;
+}
+
+td strong{
+    color: orange;
+}
+
+#table-header{
+    background-color: #040778;
+}
+.table-row{
+    background-color: black;
+    color: white;
+}
+link{
+    color: white;
+}
