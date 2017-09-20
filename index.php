@@ -29,8 +29,8 @@
                     <td>Computer Science Topic Discussed</td>
                 </tr>
                 <tr class="table-row">
-                    <td>HTML/CSS</td>
-                    <td>1</td>
+                    <td><a href="Lab02/index.php">Lab 2</a></td></td>
+                    <td>777 Slot Machine</td>
                 </tr>
             </table>
         </div>
