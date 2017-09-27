@@ -12,10 +12,10 @@
     <h1>SUDOKU!</h1>
     <body style="background-color:#800000">
         <figure id="Pencil">
-                    <img  src="img/pencil.jpg" width="250" height="400" alt="PENCIL" />
+                    <img  src="img/pencil.png" width="250" height="400" alt="PENCIL" />
                 </figure>
         <figure id="Brain">
-                    <img  src="img/brain.jpg" width="200" height="200" alt="Brain" />
+                    <img  src="img/brain.png" width="200" height="200" alt="Brain" />
                 </figure>
                 
         <?php
