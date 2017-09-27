@@ -32,9 +32,16 @@
                     <td><a href="Lab02/index.php">Lab 2</a></td></td>
                     <td>777 Slot Machine</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="HW02/home.php">HW 2</a></td></td>
+                    <td>PHP Control Structures & Arrays (Sudoku)</td>
+                </tr>
+                <!--<tr class="table-row">
+                    <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
+                    <td>Login</td>
+                </tr>-->
             </table>
         </div>
         
         
     </body>
-</html>
