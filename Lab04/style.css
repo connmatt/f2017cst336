@@ -1,0 +1,49 @@
+table {
+    display: inline-block; 
+    padding-right:5px;   
+}
+
+td {
+    height: 20px;
+    width: 20px;
+    border: 1px solid gray;
+    border-collapse:collapse;
+    border-radius:20px;
+}
+
+main {
+    text-align:center;
+    border: 1px solid gray;
+}
+
+form {
+	
+}
+
+.error {
+	color: red;
+	font-weight:bold;
+}
+.circle{
+    width: 25px;
+      height: 25px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: black;
+      border-color:black;
+      display: inline-block;
+      border: 2px solid black;
+      
+}
+.Bcircle{
+    width: 25px;
+      height: 25px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: red;
+      border: 2px solid black;
+      display: inline-block;
+      
+}

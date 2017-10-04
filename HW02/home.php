@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<?php
-
-?>
-
 <html>
     <head>
         <title> Sudoku </title>
@@ -12,21 +8,20 @@
     <h1>SUDOKU!</h1>
     <body style="background-color:#800000">
         <figure id="Pencil">
-                    <img  src="img/pencil.png" width="250" height="400" alt="PENCIL" />
-                </figure>
+            <img  src="img/pencil.png" width="250" height="400" alt="PENCIL" />
+        </figure>
         <figure id="Brain">
-                    <img  src="img/brain.png" width="200" height="200" alt="Brain" />
-                </figure>
+            <img  src="img/brain.png" width="200" height="200" alt="Brain" />
+        </figure>
                 
         <?php
         $sudoku = array();
         ?>
          <table border = 5>
-             <?php
+            <?php
             for ($x = 1; $x <= 9; $x++) {
                 $numbers = array(1,2,3,4,5,6,7,8,9);
                 echo "<tr>";
-                
                 for ($y = 1; $y <= 9; $y++) {
                    echo "<td style = 'background-color:white'>";
                    $num = rand(1,count($numbers));
@@ -35,23 +30,15 @@
                        echo $sudoku[$x[$y]] = " ";
                        echo "</td>";
                    }else{
-                    
                     $sudoku[$x[$y]] = $rannum;
                     echo $sudoku[$x[$y]];
                     array_splice($numbers, $num-1, 1);
                     echo "</td>";
-                    
-                   
-               }
-               
+                    }
                 }
                 echo "</tr>";
             }
             ?>
-            </table>
-            
-            
-        
-        
+        </table>
     </body>
 </html>

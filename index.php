@@ -36,6 +36,14 @@
                     <td><a href="HW02/home.php">HW 2</a></td></td>
                     <td>PHP Control Structures & Arrays (Sudoku)</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="Lab03/lab3.php">Lab 03</a></td></td>
+                    <td>CARDS</td>
+                </tr>
+                <tr class="table-row">
+                    <td><a href="Lab04/home.php">Lab 04</a></td></td>
+                    <td>LED Board</td>
+                </tr>
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
                     <td>Login</td>
