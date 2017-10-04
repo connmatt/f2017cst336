@@ -36,6 +36,7 @@
                     <td><a href="HW02/home.php">HW 2</a></td></td>
                     <td>PHP Control Structures & Arrays (Sudoku)</td>
                 </tr>
+
                 <tr class="table-row">
                     <td><a href="Lab03/lab3.php">Lab 03</a></td></td>
                     <td>CARDS</td>
