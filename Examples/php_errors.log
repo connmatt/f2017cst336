@@ -1,8 +1,0 @@
-[25-Sep-2017 22:48:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/Examples/HTML Forms/logout.php on line 8
-[25-Sep-2017 22:48:15 UTC] PHP Stack trace:
-[25-Sep-2017 22:48:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/HTML Forms/logout.php:0
-[25-Sep-2017 22:48:15 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/Examples/HTML Forms/logout.php:8
-[25-Sep-2017 22:48:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/Examples/HTML Forms/logout.php on line 8
-[25-Sep-2017 22:48:16 UTC] PHP Stack trace:
-[25-Sep-2017 22:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/HTML Forms/logout.php:0
-[25-Sep-2017 22:48:16 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/Examples/HTML Forms/logout.php:8
