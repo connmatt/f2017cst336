@@ -6,7 +6,10 @@
     
     if($isPostback){
         $report = $_POST["message"];
+        $color = $_POST["color"];
+        
         $_SESSION["report"] = $report;
+        $_SESSION["report"] = $color;
     }
     else{
         $_SESSION["report"] = "";

@@ -27,8 +27,6 @@ form {
 .circle{
     width: 25px;
       height: 25px;
-      -webkit-border-radius: 25px;
-      -moz-border-radius: 25px;
       border-radius: 25px;
       background: black;
       border-color:black;
@@ -39,10 +37,8 @@ form {
 .Bcircle{
     width: 25px;
       height: 25px;
-      -webkit-border-radius: 25px;
-      -moz-border-radius: 25px;
       border-radius: 25px;
-      background: red;
+      background: white;
       border: 2px solid black;
       display: inline-block;
       
