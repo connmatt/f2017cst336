@@ -45,6 +45,10 @@
                     <td><a href="Lab04/home.php">Lab 04</a></td></td>
                     <td>LED Board</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="HW03/home.php">HW03</a></td></td>
+                    <td>Background Story</td>
+                </tr>
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
                     <td>Login</td>
