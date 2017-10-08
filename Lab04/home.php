@@ -9,7 +9,7 @@
         $color = $_POST["color"];
         
         $_SESSION["report"] = $report;
-        $_SESSION["report"] = $color;
+        //$_SESSION["report"] = $color;
     }
     else{
         $_SESSION["report"] = "";

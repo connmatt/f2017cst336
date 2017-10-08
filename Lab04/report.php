@@ -10,13 +10,11 @@
                 {
                     if($value[$i][$j]=='1')
                     {
-                        //echo "1";
                         echo"<td class = 'circle' style = 'background:$color'> </td>";
                         //echo"<span style='color:red;font-size:40px'>.</span>";
                     }
                     else if($value[$i][$j]=='0')
                     {
-                        //echo "0";
                         echo"<td class = 'Bcircle' > </td>";
                     }
                 }
