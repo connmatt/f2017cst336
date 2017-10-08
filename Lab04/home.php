@@ -9,7 +9,11 @@
         $color = $_POST["color"];
         
         $_SESSION["report"] = $report;
+<<<<<<< HEAD
         //$_SESSION["report"] = $color;
+=======
+        $_SESSION["report"] = $color;
+>>>>>>> 87a0537a7666cf691c2ae9b05028478ffeb7d986
     }
     else{
         $_SESSION["report"] = "";

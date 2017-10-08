@@ -28,7 +28,11 @@ form {
     width: 25px;
       height: 25px;
       border-radius: 25px;
+<<<<<<< HEAD
       background: Black;
+=======
+      background: black;
+>>>>>>> 87a0537a7666cf691c2ae9b05028478ffeb7d986
       border-color:black;
       display: inline-block;
       border: 2px solid black;
@@ -38,7 +42,11 @@ form {
     width: 25px;
       height: 25px;
       border-radius: 25px;
+<<<<<<< HEAD
       background: White;
+=======
+      background: white;
+>>>>>>> 87a0537a7666cf691c2ae9b05028478ffeb7d986
       border: 2px solid black;
       display: inline-block;
       

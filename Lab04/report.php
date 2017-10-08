@@ -10,11 +10,19 @@
                 {
                     if($value[$i][$j]=='1')
                     {
+<<<<<<< HEAD
+=======
+                        //echo "1";
+>>>>>>> 87a0537a7666cf691c2ae9b05028478ffeb7d986
                         echo"<td class = 'circle' style = 'background:$color'> </td>";
                         //echo"<span style='color:red;font-size:40px'>.</span>";
                     }
                     else if($value[$i][$j]=='0')
                     {
+<<<<<<< HEAD
+=======
+                        //echo "0";
+>>>>>>> 87a0537a7666cf691c2ae9b05028478ffeb7d986
                         echo"<td class = 'Bcircle' > </td>";
                     }
                 }
