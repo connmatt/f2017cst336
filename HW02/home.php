@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<?php
+
+?>
+
 
 <html>
     <head>
@@ -31,11 +35,14 @@
                        echo $sudoku[$x[$y]] = " ";
                        echo "</td>";
                    }else{
+                    
 
                     $sudoku[$x[$y]] = $rannum;
                     echo $sudoku[$x[$y]];
                     array_splice($numbers, $num-1, 1);
                     echo "</td>";
+                    }
+               
                     }
                 }
                 echo "</tr>";
