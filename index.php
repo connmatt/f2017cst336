@@ -50,8 +50,8 @@
                     <td>Background Story</td>
                 </tr>
                 <tr class="table-row">
-                    <td><a href="">Lab 05</a></td></td>
-                    <td>TBD</td>
+                    <td><a href="Lab05/index.php">Lab 05</a></td></td>
+                    <td>Checkout History</td>
                 </tr>
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
@@ -62,3 +62,4 @@
         
         
     </body>
+</html>
