@@ -5,3 +5,9 @@ form{
 a{
     text-align: center;
 }
+
+body{
+    background: #d0eef2 !important;
+    text-align: center;
+    color: black;
+}
