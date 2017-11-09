@@ -131,6 +131,8 @@ function displayDevices(){
         <hr>
         
         <?=displayDevices()?>
+        
+        
 
     </body>
 </html>

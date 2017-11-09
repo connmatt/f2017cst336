@@ -5,8 +5,8 @@ function getDatabaseConnection(){
     
     $host = "localhost";//cloud 9
     $dbname = "tech_checkout";
-    $username = "connmatt";
-    $password = "cst336";
+    $username = "web_user";
+    $password = "s3cr3t";
     
     //using different database variables in Heroku
     if  (strpos($_SERVER['HTTP_HOST'], 'herokuapp') !== false) {

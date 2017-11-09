@@ -53,6 +53,23 @@
                     <td><a href="Lab05/index.php">Lab 05</a></td></td>
                     <td>Checkout History</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="Midterm/program1.php">MidProg1</a></td></td>
+                    <td>Midterm Program 1 Calendar</td>
+                </tr>
+                <tr class="table-row">
+                    <td><a href="Midterm/program2.php">MidProg2</a></td></td>
+                    <td>Midterm Program 2 SQL</td>
+                </tr>
+                <tr class="table-row">
+                    <td><a href="TeamProject/inc.form.php">TeamProject</a></td></td>
+                    <td>Team Project</td>
+                </tr>
+                <tr class="table-row">
+                    <td><a href="Lab06/index.php">Lab 06</a></td></td>
+                    <td>Log Admin In</td>
+                </tr>
+                
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
                     <td>Login</td>
