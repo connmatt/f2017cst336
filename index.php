@@ -69,6 +69,10 @@
                     <td><a href="Lab06/index.php">Lab 06</a></td></td>
                     <td>Log Admin In</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="HW04/index.html">HW 04</a></td></td>
+                    <td>HW 03 in javascript/jQuery</td>
+                </tr>
                 
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
