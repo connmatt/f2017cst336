@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title> Lab 7: AJAX </title>
+    <style>
+        .error{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h2>Sign Up</h2>
+    <form onsubmit="return validateForm()">
+        <fieldset>
+            <legend>Sign Up</legend>
+            First Name: <input type="text" id="fName" name="fName">
+                        <span id="fNameErr" class="error"></span>
+                        <br />
+             Last Name: <input type="text" id="lName" name="lName">
+                        <span id="lNameErr" class="error"></span>
+                        <br />
+                 Email: <input type="text" id="email" name="email">
+                        <span id="emailErr" class="error"></span>
+                        <br />
+          Phone Number: <input type="text" id="phone" name="phone">
+                        <span id="phoneErr" class="error">Example: xxx-xxx-xxxx</span>
+                        <br /><br/>
+              Zip Code: <input type="text" id="zip" name="zipcode">
+                        <span id="zipErr" class="error"></span>
+                        <br /><br />
+                City:   <span id="city"></span>
+                        <br /> <br />
+            Latitude:   <span id="lat"></span>
+                        <br /> <br />
+            Longitude:  <span id="long"></span>
+                        <br /> <br />
+                State:  <input type="text" id="state" name="state" >
+                        <span id="stateErr" class="error"></span>
+                        <br/><br/>
+       Select a County: <select id="county"></select>
+                        <span id="countyErr" class="error"></span>
+                        <br/> <br/>
+              Username: <input type="text" id="username" name="username">
+                        <span id="usernameErr" class="error"></span>
+                        <br />
+              Password: <input type="password" id="password" name="password">
+                        <span id="passwordErr" class="error">Requirements: 1 - Uppercase, 1- digit, minimum of 8 characters</span>
+                        <br />
+   Type Password Again: <input type="password" id="rePassword" name="rePassword">
+                        <span id="rePasswordErr" class="error"></span>
+                        <br />
+                        <input type="submit" value="Sign Up!">
+        </fieldset>
+    </form>
+    
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-dateFormat/1.0/jquery.dateFormat.min.js"></script>
+    
+    <!-- Bootstrap -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <!-- Javascript file -->
+    <script src="script.js"></script>
+</body>
+</html>

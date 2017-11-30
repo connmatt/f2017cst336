@@ -73,6 +73,10 @@
                     <td><a href="HW04/index.html">HW 04</a></td></td>
                     <td>HW 03 in javascript/jQuery</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="Lab07/index.html">Lab 07</a></td></td>
+                    <td>Lab 07 AJAX/jQuery/JS - Sign up</td>
+                </tr>
                 
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>

@@ -33,13 +33,14 @@ text{
 
 legend{
     display: block;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 0px;
+    padding-right: 0px;
     border: none;
 }
 body{
     background-color: #040059 !important;
     color: white;
+    text-align: center !important
     } 
 
 fieldset{
@@ -55,6 +56,7 @@ fieldset{
     
 .output{
     text-align: center;
+    font-size: 25px
 }
 .error {
 	color: red;
@@ -67,3 +69,4 @@ footer {
     font-size:1em;
     color:gray;
 }
+

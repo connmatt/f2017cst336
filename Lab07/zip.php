@@ -1,0 +1,1 @@
+{"city":"Seaside","latitude":"37","longitude":"-122"}
