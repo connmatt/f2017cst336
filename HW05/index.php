@@ -27,7 +27,8 @@ include 'sessions.php';
      <?php
 	    echo $_SESSION["report"];
 	    ?>
-	    <div id="searchInfo"></div>
+	    Searched: <span id="searchInfo"></span><br>
+	    Count of specific search: <span id="Count"></span>
      </fieldset>
      <br><br><br>
       <div id="earthquakeResult"></div>
@@ -36,7 +37,7 @@ include 'sessions.php';
 		
 		$("input").change(getEarthquakes);
 		
-		$("#searchInfo").append("<a>" + $("#strt_time") + " " + $("#end_time") + " " + $("#mag") + "</a>"); 
+		
   	
   	function getEarthquakes() {        
       $.ajax({
@@ -57,12 +58,44 @@ include 'sessions.php';
                  for (var i=0; i < data['features'].length; i++ ) {
                  	$('#earthquakeResult').append(data['features'][i]['properties']["mag"] + " - " + data['features'][i]['properties'].place  + "<br/>");
                  }
+                 Count();
               },
             complete: function(data,status) { //optional, used for debugging purposes
                  //alert(status);
             }
          });
     }
+    var search = []
+    var count = [0,0,0,0,0,0,0,0,0,0,0];
+    function Count(){
+        var start = $("#strt_time").val();
+        var end = $("#end_time").val();
+        var mag = $("#mag").val();
+        var search = "Start: " + start + " End:" + end + " Mag:" + mag + ".";
+        
+        if(!search.includes(search)){
+            search.push(search);
+        }
+        
+        for(var i=0; i<search.length; i++){
+            if (search != search[i]){
+                continue;
+            }
+            else{
+                count[i] +=1;
+                $("#searchInfo").html(search[i]);
+                $("#Count").html(count[i]);
+                break;
+            }
+        }
+            
+        
+        
+    }
+    
+    $(document).ready(function(){
+        $("searchInfo").append(Count())
+    })
     
     function searchInfo(){
         $("#searchInfo").html("");
