@@ -81,6 +81,10 @@
                     <td><a href="HW05/index.php">HW 05</a></td></td>
                     <td>HW05 AJAX</td>
                 </tr>
+                <tr class="table-row">
+                    <td><a href="Lab08/index.php">Lab 08</a></td></td>
+                    <td>Lab 08 Pets</td>
+                </tr>
                 
                 <!--<tr class="table-row">
                     <td><a href="Examples/HTML Forms/login.php">Login</a></td></td>
