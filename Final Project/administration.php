@@ -65,11 +65,17 @@ function displayUsers(){
         echo "<tr>";
         echo "<td>" . $user['userId'] . "</td>";
         echo "<td><a href='userInfo.php?userId=".$user['userId']."'>".$user['fName'] . " " . $user['lName']."</td>";
-        echo "<td>[<a href='updateUser.php?userId=".$user['userId']."'>Edit</a>] </td>";
-        echo "<td><form style='display:inline' action='deleteUser.php' onsubmit='return confirmDelete()'>
-                    <input type='hidden' name='userId' value='".$user['userId']."'>
-                    <input type='submit' value='Delete'>
-                  </form> </td>";
+        if($user['userId'] == 1){
+            echo "<td><strong>N/A</strong></td>";
+            echo "<td><strong>N/A</strong></td>";
+        }
+        else{
+            echo "<td>[<a href='updateUser.php?userId=".$user['userId']."'>Edit</a>] </td>";
+            echo "<td><form style='display:inline' action='deleteUser.php' onsubmit='return confirmDelete()'>
+                        <input type='hidden' name='userId' value='".$user['userId']."'>
+                        <input type='submit' value='Delete'>
+                      </form> </td>";
+        }
         echo "</tr>";
     }
     echo "</tbody>";

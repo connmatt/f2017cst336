@@ -29,7 +29,6 @@ function displayData($string){
     $stmt->execute();
     $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
     
-    echo"<input type='time' />";
     
     echo"<table class='table table-bordered'>";
     echo"<thead>";
