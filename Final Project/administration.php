@@ -1,7 +1,7 @@
 <?php
 
 include 'header.php';
-
+include 'dbConnect.php';
 session_start();
 
 if(!isset($_SESSION['username '])){ 
@@ -10,7 +10,7 @@ if(!isset($_SESSION['username '])){
 }
 
 function displayUsers(){
-    include 'dbConnect.php';
+    
     $dbConn = getDatabaseConnection();
     $sql = "SELECT *
             FROM users
@@ -23,6 +23,57 @@ function displayUsers(){
     return $users;
 }
 
+// function countUsers(){
+
+//     $dbConn = getDatabaseConnection();
+//     $sql = 'SELECT COUNT(*)
+//             FROM users';
+    
+//     $statement = $dbConn->query($sql);
+//     $data = $statement->rowCount();
+    
+//     echo $data;
+//     echo $result;
+//     //echo $total;
+        
+//     // $stmt = $dbConn->prepare($sql);
+//     // $stmt->execute();
+//     // //$users = $stmt->fetchALL(PDO::FETCH_ASSOC);
+    
+//     //return $users;
+    
+//     echo "<strong> You have a total of " . $data . " users.</strong>";
+// };
+
+// function countProducts(){
+
+//     $dbConn = getDatabaseConnection();
+//     $sql = "SELECT COUNT(*)
+//             FROM products";
+        
+//     $stmt = $dbConn->prepare($sql);
+//     $stmt->execute();
+//     $products = $stmt->fetchALL(PDO::FETCH_ASSOC);
+    
+//     //return $users;
+    
+//     echo "<strong> You have a total of: " . $products . " products.</strong>";
+// };
+
+// function countReceived(){
+    
+//     $dbConn = getDatabaseConnection();
+//     $sql = "SELECT COUNT(*)
+//             FROM receiving";
+        
+//     $stmt = $dbConn->prepare($sql);
+//     $stmt->execute();
+//     $recs = $stmt->fetchALL(PDO::FETCH_ASSOC);
+    
+//     //return $users;
+    
+//     echo "<strong> You have a total of: " . $recs . " received.</strong>";
+// };
 ?>
 
 <script>
@@ -40,8 +91,7 @@ function displayUsers(){
     <h2> Welcome <?=$_SESSION[adminFullName]?>! </h2>
     
     <br >
-    
-    <form action="addUser.php">
+    <form action ="addUser.php">
         <input type="submit" value="Add User" />
     </form>
     
@@ -80,6 +130,14 @@ function displayUsers(){
     }
     echo "</tbody>";
     echo "</table>";
+    
+    // countUsers();
+    // echo "<br>";
+    // countProducts();
+    // echo "<br>";
+    // countReceived();
+    // echo "<br>";
+    
     
     include 'footer.php';
     ?>
