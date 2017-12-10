@@ -1,6 +1,6 @@
 <?php
     include 'dbConnect.php';
-    $dbConn = getDatabaseConnection("hlm");    
+    $dbConn = getDatabaseConnection();    
     $sql = "SELECT *,
             FROM receiving 
             WHERE receiverId = :id";

@@ -1,7 +1,7 @@
 <?php
     include 'header.php';
     include 'dbConnect.php';
-  $dbConn = getDatabaseConnection("hlm");
+  $dbConn = getDatabaseConnection();
     
     //  function getProductList() {
     //         include 'dbConnect.php';

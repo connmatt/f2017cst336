@@ -10,7 +10,7 @@ if (!isset($_SESSION['username '])) { //checks whether admin has already logged 
 }
 
 include 'dbConnect.php';
-$dbConn = getDatabaseConnection("hlm");
+$dbConn = getDatabaseConnection();
 
 $sql = "DELETE FROM users WHERE userId = " . $_GET['userId'];
 

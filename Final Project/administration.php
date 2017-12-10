@@ -11,7 +11,7 @@ if(!isset($_SESSION['username '])){
 
 function displayUsers(){
     include 'dbConnect.php';
-    $dbConn = getDatabaseConnection("hlm");
+    $dbConn = getDatabaseConnection();
     $sql = "SELECT *
             FROM users
             ORDER BY userId";

@@ -8,7 +8,7 @@ if(!isset($_SESSION['username '])){
 }
 
 include 'dbConnect.php';
-$dbConn = getDatabaseConnection("hlm");
+$dbConn = getDatabaseConnection();
 
 function getUserInfo(){
     global $dbConn;

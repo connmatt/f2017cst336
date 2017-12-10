@@ -1,7 +1,7 @@
 <?php
 session_start();
 include 'dbConnect.php';
-$dbConn = getDatabaseConnection("hlm");
+$dbConn = getDatabaseConnection();
 
 $username = $_POST['username'];
 $password = sha1($_POST['password']);
