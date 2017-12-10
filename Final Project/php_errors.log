@@ -1,0 +1,489 @@
+[06-Dec-2017 06:52:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 06:59:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:02:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:04:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:05:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:05:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:06:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:10:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:15:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '1'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:23:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '1'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:29:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:31:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '1'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:33:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '1'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:33:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '2'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:33:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '3'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:33:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '4'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:33:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '5'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 07:35:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '1'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 08:10:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = '1'' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 08:13:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 08:16:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 9
+[06-Dec-2017 09:38:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 8
+[06-Dec-2017 09:38:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM receiving 
+            WHERE receiverId = NULL' at line 2' in /home/ubuntu/workspace/Final Project/api/getProductInfo.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/Final Project/api/getProductInfo.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Final Project/api/getProductInfo.php on line 8
+[06-Dec-2017 10:51:36 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Final Project/userModify/addUser.php on line 2
+[06-Dec-2017 10:51:36 UTC] PHP Stack trace:
+[06-Dec-2017 10:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Final Project/userModify/addUser.php:0
+[06-Dec-2017 10:51:36 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Final Project/userModify/addUser.php on line 2
+[06-Dec-2017 10:51:36 UTC] PHP Stack trace:
+[06-Dec-2017 10:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Final Project/userModify/addUser.php:0
+[06-Dec-2017 10:51:36 UTC] PHP Warning:  include(api/dbConnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Final Project/userModify/addUser.php on line 3
+[06-Dec-2017 10:51:36 UTC] PHP Stack trace:
+[06-Dec-2017 10:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Final Project/userModify/addUser.php:0
+[06-Dec-2017 10:51:36 UTC] PHP Warning:  include(): Failed opening 'api/dbConnect.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Final Project/userModify/addUser.php on line 3
+[06-Dec-2017 10:51:36 UTC] PHP Stack trace:
+[06-Dec-2017 10:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Final Project/userModify/addUser.php:0
+[06-Dec-2017 10:51:36 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/Final Project/userModify/addUser.php on line 4
+[06-Dec-2017 10:51:36 UTC] PHP Stack trace:
+[06-Dec-2017 10:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Final Project/userModify/addUser.php:0

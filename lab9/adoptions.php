@@ -2,7 +2,7 @@
     include 'inc/header.php';
     
      function getPetList() {
-            include 'api/dbConnect.php';
+            include '../Lab08/dbConnect.php';
             $conn = getDatabaseConnection("adoptees");
 
 
@@ -36,7 +36,7 @@
                 data: { "id": $(this).attr('id')},
                 success: function(data,status) {
                 
-                   alert(data);
+                   //alert(data);
                    $("#petInfo").html(" Age: " + data.age + "<br>" +
                                       " <img src='img/" + data.pictureURL + "'><br >" + 
                                        data.description);   

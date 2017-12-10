@@ -1,8 +1,8 @@
 <?php
 
-    include 'dbConnect.php';
+    include '../Lab08/api/dbConnect.php';
     $dbConn = getDatabaseConnection("adoptees");    
-    $sql = "SELECT *,  
+    $sql = "SELECT *, YEAR(CURDATE()) - yob age 
             FROM adoptees 
             WHERE id = :id";
     $stmt = $dbConn -> prepare($sql);

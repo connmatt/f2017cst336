@@ -82,8 +82,12 @@
                     <td>HW05 AJAX</td>
                 </tr>
                 <tr class="table-row">
-                    <td><a href="Lab08/index.php">Lab 08</a></td></td>
+                    <td><a href="lab9/header.php">Lab 08</a></td></td>
                     <td>Lab 08 Pets</td>
+                </tr>
+                <tr class="table-row">
+                    <td><a href="Final Project/index.php">Final Project</a></td></td>
+                    <td>Reciever Log</td>
                 </tr>
                 
                 <!--<tr class="table-row">
