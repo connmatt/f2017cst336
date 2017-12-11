@@ -23,27 +23,47 @@ function displayUsers(){
     return $users;
 }
 
-// function countUsers(){
+function countUsers(){
 
-//     $dbConn = getDatabaseConnection();
-//     $sql = 'SELECT COUNT(*)
-//             FROM users';
+    $dbConn = getDatabaseConnection();
+    $sql = 'SELECT COUNT(userID) AS amount
+            FROM users';
     
-//     $statement = $dbConn->query($sql);
-//     $data = $statement->rowCount();
+    $statement = $dbConn->query($sql);
+    $statement -> execute();
+    $data = $statement->fetch();
+    $count = $data['amount'];
     
-//     echo $data;
-//     echo $result;
-//     //echo $total;
-        
-//     // $stmt = $dbConn->prepare($sql);
-//     // $stmt->execute();
-//     // //$users = $stmt->fetchALL(PDO::FETCH_ASSOC);
+    echo "<strong> You have a total of " . $count . " users.</strong>";
+};
+
+function countReceived(){
+
+    $dbConn = getDatabaseConnection();
+    $sql = 'SELECT COUNT(receiverId) AS amount
+            FROM receiving';
     
-//     //return $users;
+    $statement = $dbConn->query($sql);
+    $statement -> execute();
+    $data = $statement->fetch();
+    $count = $data['amount'];
     
-//     echo "<strong> You have a total of " . $data . " users.</strong>";
-// };
+    echo "<strong> You have a total of " . $count . " products received.</strong>";
+};
+
+function countProducts(){
+
+    $dbConn = getDatabaseConnection();
+    $sql = 'SELECT COUNT(productId) AS amount
+            FROM products';
+    
+    $statement = $dbConn->query($sql);
+    $statement -> execute();
+    $data = $statement->fetch();
+    $count = $data['amount'];
+    
+    echo "<strong> You have a total of " . $count . " types of products.</strong>";
+};
 
 // function countProducts(){
 
@@ -131,12 +151,12 @@ function displayUsers(){
     echo "</tbody>";
     echo "</table>";
     
-    // countUsers();
-    // echo "<br>";
-    // countProducts();
-    // echo "<br>";
-    // countReceived();
-    // echo "<br>";
+    countUsers();
+    echo "<br>";
+    countProducts();
+    echo "<br>";
+    countReceived();
+    echo "<br>";
     
     
     include 'footer.php';

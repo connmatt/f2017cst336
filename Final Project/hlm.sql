@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 10, 2017 at 09:06 AM
+-- Generation Time: Dec 11, 2017 at 07:09 AM
 -- Server version: 5.5.57-0ubuntu0.14.04.1
 -- PHP Version: 5.5.9-1ubuntu4.22
 
@@ -23,27 +23,29 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `product`
+-- Table structure for table `products`
 --
 
-CREATE TABLE IF NOT EXISTS `product` (
-  `prodiuctId` int(11) NOT NULL AUTO_INCREMENT,
-  `product` varchar(20) NOT NULL,
-  PRIMARY KEY (`prodiuctId`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=8 ;
+CREATE TABLE IF NOT EXISTS `products` (
+  `productId` int(11) NOT NULL AUTO_INCREMENT,
+  `products` varchar(20) NOT NULL,
+  PRIMARY KEY (`productId`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=10 ;
 
 --
--- Dumping data for table `product`
+-- Dumping data for table `products`
 --
 
-INSERT INTO `product` (`prodiuctId`, `product`) VALUES
+INSERT INTO `products` (`productId`, `products`) VALUES
 (1, 'Carpet'),
 (2, 'Carpet Tile'),
 (3, 'VCT'),
 (4, 'Sheet Vinyl'),
 (5, 'Base'),
 (6, 'Linoleum'),
-(7, 'Underlayment');
+(7, 'Underlayment'),
+(8, 'Sundries'),
+(9, 'Adhesives');
 
 -- --------------------------------------------------------
 
@@ -70,7 +72,7 @@ CREATE TABLE IF NOT EXISTS `receiving` (
   `userId` int(5) NOT NULL,
   PRIMARY KEY (`receiverId`),
   KEY `userId` (`userId`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=18 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=24 ;
 
 --
 -- Dumping data for table `receiving`
@@ -91,7 +93,12 @@ INSERT INTO `receiving` (`receiverId`, `date_received`, `shipper`, `product`, `m
 (14, '2017-10-19', 'Shaw Ind.', 'Carpet', 'Shaw Ind.', 'Opportunity', 'Breakthrough', 'n/a', '12'' x 96''', '10041701', 'n/a', 'Suite #200', 'NC-23692-0001', 'Ismael G.', '2017-10-22 08:21:14', 4),
 (15, '2017-11-15', 'Xpress Global', 'Carpet Tile', 'Mannington', 'Switchback', 'Native', 'n/a', '12" x 48"', 'n/a', '128 SY', 'Mattson TI', 'NC-23684-0001', 'Steve G.', '2017-11-16 09:16:00', 4),
 (16, '2017-11-20', 'Shaw Ind.', 'Carpet Tile', 'Shaw', 'Solitude 0648V', 'Urban Ash 48540', 'n/a', '24" x 24"', 'n/a', '124', 'MLK Dist Office', 'SS-23492-0001', 'Matthew C.', '2017-11-22 09:16:00', 2),
-(17, '2017-11-22', 'Old Dominion', 'Sheet Vinyl', 'Nora', 'Environcare', '2949 Sage', 'n/a', '4 x 49.22', '11221701', 'n/a', 'Kaiser WCR Basement', 'DS-23345-0001', 'Conrad S.', '2017-11-23 10:16:00', 3);
+(17, '2017-11-22', 'Old Dominion', 'Sheet Vinyl', 'Nora', 'Environcare', '2949 Sage', 'n/a', '4 x 49.22', '11221701', 'n/a', 'Kaiser WCR Basement', 'DS-23345-0001', 'Conrad S.', '2017-11-23 10:16:00', 3),
+(19, '2017-12-04', 'Xpress Global', 'Adhesive', 'n/a', 'Taylor 2033', 'n/a', '4 gal', 'n/a', 'n/a', '5 buckets', 'STOCK', 'SG-STOCK-25365', 'Steve G.', '2017-12-05 09:18:38', 4),
+(20, '2017-12-04', 'Tom Duffy', 'Sundries', 'Burke', 'Outside Corners', '701 Black', 'n/a', '4"', 'n/a', '1', 'GGHS', 'DS-25123-26875', 'Ismael G.', '2017-12-05 10:32:30', 5),
+(21, '2017-12-05', 'Nora', 'Adhesives', 'Nora', 'Nora Adhesive', 'n/a', 'n/a', '4 gal', 'n/a', '1 bucket', 'AOES', 'CS-24589-25426', 'Scott W.', '2017-12-10 14:22:27', 7),
+(22, '2017-12-06', 'Xpress Global', 'Sundries', 'Johnsonite', 'Weld Rods', 'pearl white 558', 'n/a', 'n/a', 'n/a', '1 spool', 'Kaiser WCR', 'DS-23565-25855', 'Matt C.', '2017-12-05 10:15:00', 2),
+(23, '2017-12-06', 'BR Funsten', 'VCT', 'Armstrong', 'Imperial Texture', '51511 Clear White', 'A156C', '12" x 12"', 'n/a', '5', 'Bishop HS', 'CS-25456-23658', 'Conrad S.', '2017-12-07 11:26:00', 3);
 
 -- --------------------------------------------------------
 

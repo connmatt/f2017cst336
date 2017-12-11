@@ -1,5 +1,5 @@
 <?php
-
+// mysql --host='us-cdbr-iron-east-05.cleardb.net' --user='bdf4c2e560db23' --password='51e77203' --reconnect 'heroku_4ec5b9dc6e25258' < hlm.sql
 
 function getDatabaseConnection(){
     
